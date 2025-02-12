@@ -8,3 +8,10 @@
     100% { transform: translateY(0); }
   }
   
+
+
+
+  .small-cat {
+    width: 150px;  
+    height: auto;  
+}
